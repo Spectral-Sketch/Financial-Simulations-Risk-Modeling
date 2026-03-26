@@ -16,5 +16,12 @@ Een cruciaal instrument voor risicobeheer. Het berekent het maximale verlies dat
 - **Rode zone:** De extreme verliezen (het risico).
 ![Value at Risk](var_uitleg.gif)
 
+## 4. Fractional Differentiation (FracDiff)
+De 'Golden Mean' van data-transformatie. Waar standaard differentiatie alle geheugen wist, behoudt FracDiff de waardevolle marktstructuur.
+- **Rode lijn (d=0.4):** Behoudt het lange-termijn geheugen (Hurst).
+- **Grijze lijn (d=1.0):** Standaard methode waarbij alle informatie verloren gaat.
+![FracDiff](fracdiff_uitleg.gif)
+
+
 ---
 *Gemaakt voor educatieve doeleinden door Spectrale schets.*
